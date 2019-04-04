@@ -1,0 +1,57 @@
+﻿@using Travel.BOL.Entities
+@model IEnumerable<Category>
+<header class="header-section">
+	<nav class="colorlib-nav" role="navigation">
+		<div class="top-menu">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-2">
+						<div id="colorlib-logo"><a href="@Url.Action("Index","Home")">MASAL TUR</a></div>
+					</div>
+					<style>
+						.login{
+							padding-top:20px;
+							padding-bottom:10px;
+
+						}
+						
+							
+							
+					</style>
+					<div class="col-xs-10 text-right menu-1">
+						<ul>
+							<li class="active"><a href="@Url.Action("Index","Home")">Ana Sayfa</a></li>
+							@foreach (Category hbk in Model.Where(w => w.ParentID == null))
+							{
+								<li class="has-dropdown">
+
+									<a href="@hbk.Link">@hbk.Name</a>
+									<ul class="dropdown">
+										@foreach (Category hbak in hbk.Children)
+										{
+											<li><a href="#">@hbak.Name</a></li>
+											@*<li><a href="#">Cruises</a></li>
+												<li><a href="#">Hotels</a></li>
+												<li><a href="#">Booking</a></li>*@
+										}
+									</ul>
+								</li>
+							
+							
+							}
+								<li><a href="@Url.Action("Index","Blog")">Blog</a></li>
+								<li><a href="@Url.Action("Index","About")">Hakkımızda</a></li>
+								<li><a href="@Url.Action("Index","Contact")">İletişim</a></li>
+
+							<div class="login">
+								<li><a href="/Member/Index">Giriş Yap</a></li>
+								<span></span>
+								<li><a href="/Member/Index?t=yeni">Yeni Üyelik</a></li>
+							</div>
+						</ul>
+
+					</div>
+				</div>
+				
+	</nav>
+	</header>

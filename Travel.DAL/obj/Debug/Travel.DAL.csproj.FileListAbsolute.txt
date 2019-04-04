@@ -1,0 +1,138 @@
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.Migrations.Initial.resources
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel.DAL\obj\Debug\Travel.DAL.Migrations.Initial1.resources

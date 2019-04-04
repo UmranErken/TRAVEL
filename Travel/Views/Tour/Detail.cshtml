@@ -1,0 +1,211 @@
+﻿@using Travel.BOL.Entities
+@model Tour
+
+
+
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="colorlib-wrap">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<div class="row">
+					<div class="wrap-division">
+
+							<div class="col-md-6 col-sm-6 animate-box">
+
+								<div class="tour">
+									<h2><a href="tour-place.html">@Model.Name</a></h2>
+									<a href="#" class="tour-img" style="background-image: url('@Model.Picture');">
+										@*<p class="price"><span>$ @Model.Price</span> <small>/@Model.Day</small></p>*@
+									</a>
+									<span class="desc">
+										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> @Model.Like</p>
+
+										<span class="city">@Model.Title</span>
+										<span class="tourtitle">Tur Programı</span>
+										<p class="program">@Model.explanation</p>
+									</span>
+								</div>
+
+							</div>
+						
+					</div>
+				</div>
+				@*<div class="row">
+					<div class="col-md-12 text-center">
+						<ul class="pagination">
+							<li class="disabled"><a href="#">&laquo;</a></li>
+							<li class="active"><a href="#">1</a></li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">&raquo;</a></li>
+						</ul>
+					</div>
+				</div>*@
+			</div>
+			<!-- SIDEBAR-->
+			<div class="col-md-3">
+				<div class="sidebar-wrap">
+					<div class="side search-wrap animate-box">
+						<h3 class="sidebar-heading">Find your tour</h3>
+						<form method="post" class="colorlib-form">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="date">Where:</label>
+										<div class="form-field">
+											<input type="text" id="location" class="form-control" placeholder="Search Location">
+										</div>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="date">Check-in:</label>
+										<div class="form-field">
+											<i class="icon icon-calendar2"></i>
+											<input type="text" id="date" class="form-control date" placeholder="Check-in date">
+										</div>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="date">Check-out:</label>
+										<div class="form-field">
+											<i class="icon icon-calendar2"></i>
+											<input type="text" id="date" class="form-control date" placeholder="Check-out date">
+										</div>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="guests">Guest</label>
+										<div class="form-field">
+											<i class="icon icon-arrow-down3"></i>
+											<select name="people" id="people" class="form-control">
+												<option value="#">1</option>
+												<option value="#">2</option>
+												<option value="#">3</option>
+												<option value="#">4</option>
+												<option value="#">5+</option>
+											</select>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<input type="submit" name="submit" id="submit" value="Find Flights" class="btn btn-primary btn-block">
+								</div>
+							</div>
+						</form>
+					</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+	.colorlib-wrap{
+	margin-top:50px;
+
+	}
+	.tour{
+	padding-right:-50px;}
+
+	.tourtitle{
+	color:#000;
+	font-size:15px;
+  border: 2px solid #000;
+
+	font-weight: bold;
+	}
+
+
+	}
+	body{
+		background-color:#ffffff;
+
+
+	}
+	.row>{
+		padding-top:20px;
+	   width:800px;
+	   height:500px;
+
+	}
+	.banner{
+
+		height:130px;
+		background: url(@Model.Picture) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	  opacity:0.7;
+
+	}
+	.program{
+	text-align: justify;
+
+	}
+
+
+</style>
+<header>
+	<div class="banner">
+		
+	</div>
+</header>
+@*<div class="colorlib-wrap">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="row">
+					<div class="wrap-division">
+							<div class="col-md-12 col-sm-12 animate-box">
+
+								<div class="tour">
+									<h2><a href="tour-place.html">@Model.Name</a></h2>
+									<a href="#" class="tour-img" style="background-image: url('@Model.Picture');">
+										<p class="price"><span>$ @Model.Price</span> <small>/@Model.Day</small></p>
+									</a>
+									<span class="desc">
+										<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
+
+										<span class="city">@Model.Title</span>
+										<p>
+
+										</p>
+									</span>
+								</div>
+
+							</div>
+						
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+		</div>*@
+				@*<h2>Tur Detayları</h2>
+
+				@*<div class="container-fluid">
+						<div class="container">
+							<div class="row">
+
+									<h2>@Model.Name</h2>
+									<img src="@Model.Picture" alt="@Model.Name" />
+									<h3>@Model.Price</h3>
+
+							</div>
+						</div>
+
+					</div>*@

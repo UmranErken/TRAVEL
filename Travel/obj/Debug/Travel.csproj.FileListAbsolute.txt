@@ -1,0 +1,1129 @@
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\geziRehber\tur\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Travel.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Travel.pdb
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Downloads\tur\tur\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Downloads\tur\tur\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Downloads\tur\tur\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\geziRehber.BOL.dll
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\geziRehber.BOL.pdb
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\geziRehber.BOL.dll.config
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Downloads\tur\tur\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Travel.dll.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Travel.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Travel.pdb
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BOL.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BOL.pdb
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BOL.dll.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\tour\tour\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\tour\tour\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\tour\tour\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Section1\Desktop\tour\tour\Travel\obj\Debug\Travel.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\obj\Debug\Travel.pdb
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BLL.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.DAL.dll
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BLL.pdb
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.BLL.dll.config
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.DAL.pdb
+C:\Users\Section1\Desktop\tour\tour\Travel\bin\geziRehber.DAL.dll.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\obj\Debug\Travel.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\obj\Debug\Travel.pdb
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Travel.dll.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Travel.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Travel.pdb
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BLL.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BOL.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.DAL.dll
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BLL.pdb
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BLL.dll.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BOL.pdb
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.BOL.dll.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.DAL.pdb
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\bin\geziRehber.DAL.dll.config
+C:\Users\Section1\Desktop\tour\tour\tour\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BLL.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BOL.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.DAL.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BLL.pdb
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BLL.dll.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BOL.pdb
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.BOL.dll.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.DAL.pdb
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\bin\geziRehber.DAL.dll.config
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\BENİM PROJEM\tour (1)\tour\tour\tour\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\geziRehber\tour (1)\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\TRAVEL.SON\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\TRAVEL.ümm\Travel\obj\Debug\Travel.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.pdb
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.dll
+C:\Users\Section1\Desktop\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Downloads\ümmmmm\ümmmmm\ümmmmm\Travel\obj\Debug\Travel.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.pdb
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.dll
+C:\Users\Section1\Desktop\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Downloads\MVC PROJE TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.rsp
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.rsp
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Console.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.rsp
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.pdb
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll.config
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.dll
+C:\Users\Ümran\Desktop\MVC_PROJE_TRAVEL\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BLL.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.BOL.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.pdb
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Travel.DAL.dll.config
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.dll
+C:\Users\Section1\Desktop\tour\MVC PROJE TRAVEL\MVC PROJE TRAVEL\Travel\obj\Debug\Travel.pdb
